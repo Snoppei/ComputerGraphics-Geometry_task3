@@ -1,0 +1,2 @@
+# ComputerGraphicsAndGeometry_task3
+Квадратичная спираль КГ
